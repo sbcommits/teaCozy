@@ -18,14 +18,13 @@ Open in any web browser that supports HTML 5.
 List of features ready and TODOs for future development:
 * Page structure 
 * Links to external images
-* Some CSS styling
+* Flexbox styling
 
 To-do list:
-* Flexbox styling
-* Tea Cozy logo
+* None
 
 ## Status
-Project is: _in progress_
+Project is: _finished_
 
 ## Contact
 Created by [@sbcommits](https://github.com/sbcommits) - feel free to contact me!
